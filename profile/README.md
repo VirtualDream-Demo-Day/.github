@@ -97,7 +97,7 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
     <td align="center">
       <a href="https://github.com/osamuelelvis">
         <img src="https://github.com/osamuelelvis.png" width="80px" style="border-radius:50%;" alt="Nome 4"/><br/>
-        <sub><b>Nome Completo 4</b></sub><br/>
+        <sub><b>Samuel Elvis</b></sub><br/>
         <sub>🌙 Back End </sub>
       </a>
     </td>
