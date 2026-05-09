@@ -74,28 +74,28 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/username.png?size=80">
+      <a href="https://github.com/eduardobsferreira">
         <img src="https://github.com/eduardobsferreira.png" width="80px" style="border-radius:50%;" alt="Nome 1"/><br/>
         <sub><b>Eduardo Barros </b></sub><br/>
         <sub>🌙 UI/UX | Front End </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario2">
+      <a href="https://github.com/Juliac-silva">
         <img src="https://github.com/Juliac-silva.png" width="80px" style="border-radius:50%;" alt="Nome 2"/><br/>
         <sub><b>Julia Costa</b></sub><br/>
         <sub>🌙 UI/UX Designer</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario3">
+      <a href="https://github.com/mayaraellenn-06">
         <img src="https://github.com/mayaraellenn-06.png" width="80px" style="border-radius:50%;" alt="Nome 3"/><br/>
         <sub><b>Mayara Ellen</b></sub><br/>
         <sub>🌙 Marketing </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario4">
+      <a href="https://github.com/osamuelelvis">
         <img src="https://github.com/osamuelelvis.png" width="80px" style="border-radius:50%;" alt="Nome 4"/><br/>
         <sub><b>Nome Completo 4</b></sub><br/>
         <sub>🌙 Back End </sub>
@@ -104,28 +104,28 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/usuario5">
+      <a href="https://github.com/Kayansouza">
         <img src="https://github.com/Kayansouza.png" width="80px" style="border-radius:50%;" alt="Nome 5"/><br/>
         <sub><b>Richard Kayan</b></sub><br/>
         <sub>🌙 Back End </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/199387890.png?size=80">
+      <a href="https://github.com/devmoraria">
         <img src="https://github.com/devmoraria.png" width="80px" style="border-radius:50%;" alt="Nome 6"/><br/>
         <sub><b>Cauan Morária</b></sub><br/>
         <sub> 🌙 Product Owner </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario7">
+      <a href="https://github.com/ViktorWilker">
         <img src="https://github.com/ViktorWilker.png" width="80px" style="border-radius:50%;" alt="Nome 7"/><br/>
         <sub><b>Victor Wilker</b></sub><br/>
         <sub>🌙 Scrum Master </sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario8">
+      <a href="https://github.com/brenofbmoura">
         <img src="https://github.com/brenofbmoura.png" width="80px" style="border-radius:50%;" alt="Nome 8"/><br/>
         <sub><b>Breno Faria </b></sub><br/>
         <sub> 🌙 Front End </sub>
