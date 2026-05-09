@@ -77,21 +77,21 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
       <a href="https://github.com/eduardobsferreira.png">
         <img src="https://github.com/eduardobsferreira.png" width="80px" style="border-radius:50%;" alt="Nome 1"/><br/>
         <sub><b>Eduardo Barros </b></sub><br/>
-        <sub>🔮 UI/UX | Front End </sub>
+        <sub>🌙 UI/UX | Front End </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/usuario2">
         <img src="https://github.com/Juliac-silva.png" width="80px" style="border-radius:50%;" alt="Nome 2"/><br/>
         <sub><b>Julia Costa</b></sub><br/>
-        <sub>🎨 UI/UX Designer</sub>
+        <sub>🌙 UI/UX Designer</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/usuario3">
         <img src="https://github.com/mayaraellenn-06.png" width="80px" style="border-radius:50%;" alt="Nome 3"/><br/>
         <sub><b>Mayara Ellen</b></sub><br/>
-        <sub>🛸 Marketing </sub>
+        <sub>🌙 Marketing </sub>
       </a>
     </td>
     <td align="center">
@@ -107,28 +107,28 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
       <a href="https://github.com/usuario5">
         <img src="https://github.com/Kayansouza.png" width="80px" style="border-radius:50%;" alt="Nome 5"/><br/>
         <sub><b>Richard Kayan</b></sub><br/>
-        <sub>☁️ Back End </sub>
+        <sub>🌙 Back End </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/usuario6">
         <img src="https://github.com/devmoraria.png" width="80px" style="border-radius:50%;" alt="Nome 6"/><br/>
         <sub><b>Cauan Morária</b></sub><br/>
-        <sub> Product Owner </sub>
+        <sub> 🌙 Product Owner </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/usuario7">
         <img src="https://github.com/ViktorWilker.png" width="80px" style="border-radius:50%;" alt="Nome 7"/><br/>
         <sub><b>Victor Wilker</b></sub><br/>
-        <sub>📖 Scrum Master </sub>
+        <sub>🌙 Scrum Master </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/usuario8">
         <img src="https://github.com/brenofbmoura.png" width="80px" style="border-radius:50%;" alt="Nome 8"/><br/>
         <sub><b>Breno Faria </b></sub><br/>
-        <sub>✨ Front End </sub>
+        <sub> 🌙 Front End </sub>
       </a>
     </td>
   </tr>
