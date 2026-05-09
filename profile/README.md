@@ -114,21 +114,21 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
       <a href="https://github.com/usuario6">
         <img src="https://github.com/devmoraria.png" width="80px" style="border-radius:50%;" alt="Nome 6"/><br/>
         <sub><b>Cauan Morária</b></sub><br/>
-        <sub>🔍 QA & Testes</sub>
+        <sub> Product Owner </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/usuario7">
         <img src="https://github.com/ViktorWilker.png" width="80px" style="border-radius:50%;" alt="Nome 7"/><br/>
         <sub><b>Victor Wilker</b></sub><br/>
-        <sub>📖 Tech Writer</sub>
+        <sub>📖 Scrum Master </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/usuario8">
-        <img src="https://github.com/usuario8.png" width="80px" style="border-radius:50%;" alt="Nome 8"/><br/>
-        <sub><b>Nome Completo 8</b></sub><br/>
-        <sub>✨ Product Manager</sub>
+        <img src="https://github.com/brenofbmoura.png" width="80px" style="border-radius:50%;" alt="Nome 8"/><br/>
+        <sub><b>Breno Faria </b></sub><br/>
+        <sub>✨ Front End </sub>
       </a>
     </td>
   </tr>
