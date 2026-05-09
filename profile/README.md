@@ -32,8 +32,7 @@
 
 ---
 
-## Telas / Fluxo 
-## 📸 Screenshots
+## Telas / Fluxo - ˗ˏˋ ★ ˎˊ˗
 
 <div align="center">
 <table>
@@ -43,9 +42,9 @@
     <td align="center"><b>🔮 Interpretação</b></td>
   </tr>
   <tr>
-    <td><img src="" width="200px"/></td>
-    <td><img src="" width="200px"/></td>
-    <td><img src="" width="200px"/></td>
+    <td><img src="Entrar.png" width="200px"/></td>
+    <td><img src="RegistrarSonho.png" width="250px"/></td>
+    <td><img src="Resumo Jung.png" width="200px"/></td>
   </tr>
 </table>
 </div>
