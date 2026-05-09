@@ -25,6 +25,5 @@
 | 🔮 | **Interpretação com IA** | Análise simbólica e psicológica gerada em tempo real |
 | 📖 | **Diário de Sonhos** | Registre e acompanhe seus sonhos ao longo do tempo |
 | 🌙 | **Padrões Oníricos** | Descubra temas e símbolos recorrentes nos seus sonhos |
-| 🎨 | **UI Imersiva** | Interface noturna construída com Jetpack Compose |
-| 🔍 | **Dicionário de Símbolos** | Biblioteca de arquétipos e símbolos clássicos |
+| 🎨 | **UI Imersiva** | Interface construída com Jetpack Compose |
 | ☁️ | **Histórico em Nuvem** | Sonhos salvos e acessíveis de qualquer lugar |
