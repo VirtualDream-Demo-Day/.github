@@ -67,3 +67,72 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
 ```
 
 ---
+
+#Colaboradores 
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eduardobsferreira.png">
+        <img src="https://github.com/eduardobsferreira.png" width="80px" style="border-radius:50%;" alt="Nome 1"/><br/>
+        <sub><b>Eduardo Barros </b></sub><br/>
+        <sub>🔮 UI/UX | Front End </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario2">
+        <img src="https://github.com/Juliac-silva.png" width="80px" style="border-radius:50%;" alt="Nome 2"/><br/>
+        <sub><b>Julia Costa</b></sub><br/>
+        <sub>🎨 UI/UX Designer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario3">
+        <img src="https://github.com/mayaraellenn-06.png" width="80px" style="border-radius:50%;" alt="Nome 3"/><br/>
+        <sub><b>Mayara Ellen</b></sub><br/>
+        <sub>🛸 Marketing </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario4">
+        <img src="https://github.com/osamuelelvis.png" width="80px" style="border-radius:50%;" alt="Nome 4"/><br/>
+        <sub><b>Nome Completo 4</b></sub><br/>
+        <sub>🌙 Back End </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/usuario5">
+        <img src="https://github.com/Kayansouza.png" width="80px" style="border-radius:50%;" alt="Nome 5"/><br/>
+        <sub><b>Richard Kayan</b></sub><br/>
+        <sub>☁️ Back End </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario6">
+        <img src="https://github.com/devmoraria.png" width="80px" style="border-radius:50%;" alt="Nome 6"/><br/>
+        <sub><b>Cauan Morária</b></sub><br/>
+        <sub>🔍 QA & Testes</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario7">
+        <img src="https://github.com/ViktorWilker.png" width="80px" style="border-radius:50%;" alt="Nome 7"/><br/>
+        <sub><b>Victor Wilker</b></sub><br/>
+        <sub>📖 Tech Writer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario8">
+        <img src="https://github.com/usuario8.png" width="80px" style="border-radius:50%;" alt="Nome 8"/><br/>
+        <sub><b>Nome Completo 8</b></sub><br/>
+        <sub>✨ Product Manager</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
