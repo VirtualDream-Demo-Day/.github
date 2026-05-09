@@ -68,13 +68,13 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
 
 ---
 
-#Colaboradores 
+## Os Sonhadores por trás do projeto ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/eduardobsferreira.png">
+      <a href="https://github.com/username.png?size=80">
         <img src="https://github.com/eduardobsferreira.png" width="80px" style="border-radius:50%;" alt="Nome 1"/><br/>
         <sub><b>Eduardo Barros </b></sub><br/>
         <sub>🌙 UI/UX | Front End </sub>
@@ -111,7 +111,7 @@ echo "API_KEY=sua_chave_aqui" >> local.properties
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario6">
+      <a href="https://github.com/199387890.png?size=80">
         <img src="https://github.com/devmoraria.png" width="80px" style="border-radius:50%;" alt="Nome 6"/><br/>
         <sub><b>Cauan Morária</b></sub><br/>
         <sub> 🌙 Product Owner </sub>
