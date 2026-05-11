@@ -51,22 +51,6 @@
 
 ---
 
-### Instalação
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/seu-usuario/virtual-dream.git
-
-# 2. Entre na pasta
-cd virtual-dream
-
-# 3. Configure sua chave de API no local.properties
-echo "API_KEY=sua_chave_aqui" >> local.properties
-
-# 4. Abra no Android Studio e rode ▶️
-```
-
----
 
 ## Os Sonhadores por trás do projeto ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
