@@ -45,9 +45,29 @@
     <td><img src="login.jpg" width="200px"/></td>
     <td><img src="novosonho.jpg" width="250px"/></td>
     <td><img src="interpretação.jpg" width="200px"/></td>
+
   </tr>
 </table>
 </div>
+
+ ---
+<table>
+  <div align="center">
+  <tr>
+    <td align="center"><b>🏠 Início</b></td>
+    <td align="center"><b>✍️ Novo Sonho</b></td>
+    <td align="center"><b>🔮 Interpretação</b></td>
+  </tr>
+  <tr>
+    <td><img src="login.jpg" width="200px"/></td>
+    <td><img src="novosonho.jpg" width="250px"/></td>
+    <td><img src="interpretação.jpg" width="200px"/></td>
+
+  </tr>
+</table>
+</div>
+
+
 
 ---
 
