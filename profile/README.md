@@ -44,7 +44,7 @@
   <tr>
     <td><img src="login.jpg" width="200px"/></td>
     <td><img src="novosonho.jpg" width="250px"/></td>
-    <td><img src="Resumo Jung.png" width="200px"/></td>
+    <td><img src="interpretação.jpg" width="200px"/></td>
   </tr>
 </table>
 </div>
